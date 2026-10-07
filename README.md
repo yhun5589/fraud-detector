@@ -21,6 +21,7 @@ This research evaluates three gradient-boosted and tree-based machine learning m
 * **`Xgboost_eva.py`**: Evaluation script testing the trained XGBoost model against test datasets.
 * **`sklearn_random_forest_trainer.py`**: Model training pipeline using Scikit-Learn's Random Forest classifier.
 * **`sklearn_random_forest_testing.py`**: Evaluation script testing the trained Random Forest model against test datasets.
+* **`manual_test.py`**: Evaluation script testing by using deterministic rule-based systems.
 
 ---
 
