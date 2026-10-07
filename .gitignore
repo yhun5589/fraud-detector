@@ -1,0 +1,10 @@
+# Ignore all .plk files anywhere in the project
+*.pkl
+
+# Ignore the folder named "document" and everything inside it
+document/
+
+*.zip
+*.txt
+
+*.csv
